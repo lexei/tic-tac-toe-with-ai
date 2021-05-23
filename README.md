@@ -1,5 +1,5 @@
 # Tic Tac Toe with AI
-This is a project from [hyperskill](https://hyperskill.org/projects/81?track=1)
+This is a project from [Hyperskill](https://hyperskill.org/projects/81?track=1)
 
 Everybody remembers this paper-and-pencil game 
 from childhood: Tic-Tac-Toe, also known as 
